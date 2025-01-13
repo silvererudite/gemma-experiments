@@ -1,0 +1,23 @@
+[
+  {
+    "query": "tk send kivabe",
+    "expected_answer": "Send money option থেকে টাকা পাঠান।",
+    "type": "Transliterated",
+    "region": "Dhaka",
+    "intent": "Money Transfer"
+  },
+  {
+    "query": "মোবাইল রিচার্জ ফি কি?",
+    "expected_answer": "Operator অনুযায়ী mobile recharge fee।",
+    "type": "Formal Bangla",
+    "region": "Chittagong",
+    "intent": "Recharge Info"
+  },
+  {
+    "query": "গত মাসে কত খরচ করেছি?",
+    "expected_answer": "আপনার গত মাসের খরচ হলো ৩০০০ টাকা।",
+    "type": "Personalized Query",
+    "region": "Dhaka",
+    "intent": "Expense Tracking"
+  }
+]
